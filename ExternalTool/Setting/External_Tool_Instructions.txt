@@ -1,0 +1,7 @@
+External Tool Instructions:
+
+Run the program in Visual Studio 2017, then choose a color from the options provided.
+Once you have selected one, and click the save button, the text  file named "Color"
+containing the name of the color will be saved to the debug folder of the external tool.
+Move the text file to the debug folder of the main game, Mass Extinguisher:
+FireExtinguisher\bin\DesktopGL\AnyCPU\Debug
